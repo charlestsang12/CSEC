@@ -4,4 +4,4 @@ CSEC is a ERC20 token, designated to work as enlightment personal growth in bloc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
